@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
@@ -48,3 +49,12 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+=======
+# Mios
+O envelhecimento populacional tem contribuído para o aumento da incidência de doenças neurodegenerativas, especialmente as demências, que afetam significativamente as funções cognitivas e comportamentais dos indivíduos.Nesse contexto, torna-se essencial o acompanhamento contínuo desses pacientes.
+Com o avanço das tecnologias digitais, têm sido desenvolvidas soluções para auxiliar no monitoramento da saúde. Entretanto, ainda existem dificuldades no registro e organização das informações clínicas de idosos com demência.
+Diante disso, apresenta-se a seguinte problemática: de que forma a tecnologia pode contribuir para o acompanhamento médico de idosos com demência?
+A relevância deste estudo está na necessidade de desenvolvimento de ferramentas que auxiliem no cuidado desses pacientes, promovendo melhor qualidade de vida.
+O objetivo geral consiste em desenvolver um aplicativo para acompanhamento médico de idosos com demência, com foco no suporte ao cuidador.Como objetivos específicos, destacam-se o registro de sintomas, organização do histórico e geração de relatórios.
+A metodologia baseia-se no desenvolvimento de um sistema digital aliado à revisão bibliográfica.
+>>>>>>> 68b85225f9b2b0a48eb4f9017b903cf1b188dbdb
